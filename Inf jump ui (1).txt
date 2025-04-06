@@ -7,7 +7,7 @@ local InfiniteJump = InfiniteJumpSetup()
 
 local Window = Library:CreateWindow{
     Title = `Fluent {Library.Version}`,
-    SubTitle = "by Actual Master Oogway",
+    SubTitle = "by IblameHaz ur daddy",
     TabWidth = 160,
     Size = UDim2.fromOffset(830, 525),
     Resize = true,
